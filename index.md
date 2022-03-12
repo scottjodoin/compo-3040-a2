@@ -1,5 +1,4 @@
 # Scott Jodoin
-============
 
 ## Software Developer
 
@@ -20,7 +19,6 @@
 *   C / C++ language
 
 ## RELEVANT WORK EXPERIENCE
-========================
 
 ### IT / Cryptocurrency Development  
 PENN-CO CONSTRUCTION CANADA Jan 2021- May 2021
@@ -57,7 +55,6 @@ DEPT OF EDUCATION, UNIVERSITY OF MANITOBA Jun 2016 - Aug 2019 (Summers)
 *   Reduced recurring manual workload from 60+ hours of work to 8 hours.
 
 ## EDUCATION
-=========
 
 ### UNIVERSITY OF MANITOBA  
 B. SC. COMPUTER SCIENCE - MAJOR PROGRAM - CS GPA 4.17 2020 - 2024
@@ -72,7 +69,6 @@ B. INT. ED. / MUS. - MATH / COMPOSITION 2011 - 2017
 FULL STACK RUBY DEVELOPER 2019
 
 ## ADDITIONAL WORK EXPERIENCE
-==========================
 
 ### K-12 SUBSTITUTE TEACHER  
 HANOVER SCHOOL DIVISION Sep 2020 - Oct 2020
@@ -95,7 +91,6 @@ K-1 MUSIC / PHYS ED TEACHER Sep 2017 - Jun 2018
 *   Designed and prepared 2 shows to involving 220+ students include contributions from 9 teachers.
 
 ## VOLUNTEER EXPERIENCE
-====================
 
 ### LIVESTREAM LEAD  
 NFP ORG STEINBACH Mar 2020 - Jun 2021
