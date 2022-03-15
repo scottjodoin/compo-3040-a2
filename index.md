@@ -1,3 +1,7 @@
+---
+title: "My Resume"
+---
+
 # Scott Jodoin
 
 ## Software Developer
