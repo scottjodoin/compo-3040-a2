@@ -8,6 +8,11 @@ This README will will describe how to upload a resume using the tools and techni
 * A resume formatted in Markdown
 * A Github account and dedicated respository
 
+
+**Use a lightweight markup language**
+**Format a document with a static site generator**
+**Share / host documents on a distributed version control system**
+
 ## Instructions
 
 

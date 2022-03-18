@@ -24,13 +24,14 @@ title: "My Resume"
 
 ## RELEVANT WORK EXPERIENCE
 
-### IT / Cryptocurrency Development  
-PENN-CO CONSTRUCTION CANADA Jan 2021- May 2021
+### ENTERPRISE ARCHITECT INTERN (REMOTE)
+WAWANESA MUTUAL INSURANCE JAN 2022 - APR 2022
 
-*   Built and configured 10 mining rigs running Linux with a total of 50 graphics cards
-*   Modified and extended bash scripts / C programs to configure and run mining rigs
-*   Reverse-engineered and modified BIOS/ overclock settings to increase performance metrics, stability, and ultimately, profitability.
-*   Developed a web-scraping tool and a monitoring tool in Node JS to gather GPU availability and rig statuses.
+* Maintained and contributed to an application portfolio management repository containing hundreds of applications.
+* Researched, assessed impact, and provided recomendations on the use of new and existing technology at Wawanesa based on Lean princinples.
+* Actively communicated with dozens of solution architects within the organization to consolidate architecture and business knowledge.
+* Used advanced features of SharePoint, Confluence, Office 365, Visio, and LeanIX for collaborative and automated knowledge management and reporting.
+* Learned about various architecture frameworks such as TOGAF, ITIL, and Lean.
 
 ### JUNIOR DEVELOPER (REMOTE)  
 INTERNATIONAL INSTITUTE FOR SUSTAINABLE DEVELOPMENT Aug 2020 - May 2021
@@ -40,6 +41,14 @@ INTERNATIONAL INSTITUTE FOR SUSTAINABLE DEVELOPMENT Aug 2020 - May 2021
 *   Unified 10 Cloudflare Workers into one managing 20k+ daily requests.
 *   Modularized a payment approval system managing $50k+ / mo to improve project manager workflow and to reduce errors.
 *   Developed an analytics system that reports feature usage bade on department.
+
+### IT / Cryptocurrency Development  
+PENN-CO CONSTRUCTION CANADA Jan 2021- May 2021
+
+*   Built and configured 10 mining rigs running Linux with a total of 50 graphics cards
+*   Modified and extended bash scripts / C programs to configure and run mining rigs
+*   Reverse-engineered and modified BIOS/ overclock settings to increase performance metrics, stability, and ultimately, profitability.
+*   Developed a web-scraping tool and a monitoring tool in Node JS to gather GPU availability and rig statuses.
 
 ### FULL-STACK PHP DEVELOPER (REMOTE)  
 STEINBACH ARTS COUNCIL May 2021 - Sept 2021
