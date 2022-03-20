@@ -13,7 +13,7 @@ This guide will walk you through the steps to upload a resume to your Github rep
 
 ### 1. **According to Etter: Use a lightweight markup language**
 
-The first thing to do is to create a Markdown file `index.md`. This is the file that will be used to create your resume. See below for a link to the **Markdown Cheatsheet** in case this is your first time using Markdown. See **Why is Markdown better than a word processor?** for more information on why you should use Markdown.
+The first thing to do is to create a Markdown file `index.md`. This is the file that will be used to create your resume. See below for a link to the **Markdown Cheatsheet** in case this is your first time using Markdown. See **[Why is Markdown better than a word processor?](https://github.com/scottjodoin/scottjodoin.github.io#faq)** for more information on why you should use Markdown.
 Here is a template you are free to use to structure your resume in Markdown. Add any extra sections as you need.
 
 ```
