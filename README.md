@@ -70,6 +70,11 @@ Open up a new instance of VS Code and click **Clone a Git Repository**. Copy the
 
 In VS Code, click the **Git** tab, add a commit message and click **Sync Changes**. You should see a message that your changes have been pushed to your repository.
 
+Here is a demonstration for how to do steps e and f in VS Code:
+
+![Commiting and Pushing in VS Code](https://github.com/scottjodoin/scottjodoin.github.io/blob/main/pushing.gif?raw=true)
+
+
 #### g. Open your GitHub repository in your browser and see that your file has successfully been uploaded
 
 If you can't see your file, you may need to refresh the page.
