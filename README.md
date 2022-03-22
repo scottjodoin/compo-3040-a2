@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This README guide will walk you through the steps to upload a resume to your GitHub repository using Markdown, Jekyll theming, and GitHub pages. This guide will also make references to the suggestions as outlined in Etter's book, **Modern Technical Writing**. 
+This README guide will walk you through the steps to upload a resume to your GitHub repository using Markdown, Jekyll theming, and GitHub pages. This guide will also make references to the suggestions as outlined in Etter's book, **Modern Technical Writing**. This guide is for anyone who might be interested in having an easy-to-update solution for their resume. Even if you do not have much familiarity with these topics, you should be able to complete this guide in an evening.
 
 ## Prerequisites
 
