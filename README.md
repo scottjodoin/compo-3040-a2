@@ -114,7 +114,7 @@ Congrats! If you have followed the steps in this guide, you should have an easy-
 * [Andrew Etter's Book, Modern Technical Writing: An Introduction to Software Documentation](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
 * [COMP 3040 course guide at the University of Manitoba](https://aurora.umanitoba.ca/banprod/bwckctlg.p_disp_course_detail?cat_term_in=202210&subj_code_in=COMP&crse_numb_in=3040) 
 
-## Authors and Acknowedgements
+## Authors and Acknowledgements
 
 This resume and README was created by myself, Scott Jodoin in fulfillment of Assignment 2 from COMP 3040. The Jekyll theme [Slate](https://github.com/pages-themes/slate) used by this resume was created by [Ben Balter and the open source community](https://github.com/pages-themes/slate/graphs/contributors). My group members include: Kyle Calinisan, Raven Mico Carencia, Tahmidul Hasnain Zidaan, and Hao Qin. 
 
