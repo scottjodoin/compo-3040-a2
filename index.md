@@ -1,7 +1,6 @@
 ---
 title: "My Resume"
 ---
-Make a change! 
 
 # Scott Jodoin
 
