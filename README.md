@@ -127,4 +127,4 @@ Markdown is simple and clean text content language designed for the web; it is a
 
 ### Why is my resume not showing up?
   
-Your resume could be not showing for a couple reasons. Did you forget to push your index.md file or _config.yml file? If you just pushed your code, try waiting a little bit: GitHub pages can take up to 20 minutes to deploy. You can view the deployment progress by following the **github-pages** under the Environments section on your respository's main page. 
+Your resume could be not showing for a couple reasons. Did you forget to push your index.md file or _config.yml file? If you just pushed your code, try waiting a little bit; GitHub pages can take up to 20 minutes to deploy. You can view the deployment progress by following the **github-pages** under the Environments section on your respository's main page. 
