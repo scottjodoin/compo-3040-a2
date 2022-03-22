@@ -14,6 +14,7 @@ This guide will walk you through the steps to upload a resume to your Github rep
 ### 1. **According to Etter: Use a lightweight markup language**
 
 The first thing to do is to create a Markdown file `index.md`. This is the file that will be used to create your resume. See below for a link to the **Markdown Cheatsheet** in case this is your first time using Markdown. See **[Why is Markdown better than a word processor?](https://github.com/scottjodoin/scottjodoin.github.io#faq)** for more information on why you should use Markdown.
+
 Here is a template you are free to use to structure your resume in Markdown. Add any extra sections as you need.
 
 ```
@@ -49,37 +50,57 @@ Volunteer location, date range
 
 ### 2. **According to Etter: Share / host documents on a distributed version control system**
 
+Etter recommends that you use a version control system to manage your documents. This is a good way to ensure that your documents are always up-to-date. We recommend using Github.
+
 Now that you have your resume in Markdown, you need to upload it to a Github repository
 #### 1. Create a Github repository for your resume in the following format: `username.github.io`.
+
 #### 2. Grab the link to your repository from the Github page
+
 #### 3. Download the repository in VS Code
 
-Open up a new instance of VS Code and click **Clone a Git Repository**
+Open up a new instance of VS Code and click **Clone a Git Repository**. Copy the link from the Github page and paste it into the **Repository URL** field. Click **Clone** and wait for the repository to download. You should see a new folder in your workspace.
 
-#### 4. Add your resume to the directory and commit your changes.
+#### 4. Add your resume to the directory as `index.md` and commit your changes.
+
 #### 5. Push your changes to your repository
+
+In VS Code, click the **Git** tab and click **Push**. You should see a message that your changes have been pushed to your repository.
+
 #### 6. Open your Github repository in your browser and see that your file has successfully been uploaded
+
+If you can't see your file, you may need to refresh the page.
 
 ### 3. **According to Etter: Format a document with a static site generator**
 
-While styling with html and css can be fun, it is much faster to use a static site generator. Jekyll is a tool that will convert a Markdown document into a static site. While we can run Jekyll locally, we will use Github pages to take care of this for us.
+While styling with html and css can be fun, it also be time consuming and detract from the actual work of writing. Etter recommends using a static site generator to create a website that is easy to read and navigate from the beautiful markdown you produced in an earlier step.
 
-#### **Set up Github Pages for your repository**
+Jekyll is our tool of choice that will convert a Markdown document into a static site. While is is possible to run Jekyll on your own machine, we will let Github pages take care of this for us.
+
+#### 1. Set up Github Pages for your repository
 * From your Github repository go to the **Settings** then **Pages** section.
 * Choose the   **Main** or **Master** branch and **Save**.
 * Choose a Jekyll theme that suits your fancy and commit the changes.
 
 When you go back to your repository, you will find a new file called `_config.yml`. This file contains the configuration for your Jekyll site. So far the file only contains the `theme:` setting.
 
-#### Choose a more specific theme for your resume
+#### 2. Choose a more specific theme for your resume
 
 If you want to see more Jekyll themes than the default ones that Github provides, you can visit the [Jekyll themes page](https://jekyllrb.com/docs/themes/) to see more. Each theme has a unique name, so when you find one you like, you can replace the `theme:` setting in `_config.yml` with the name of the theme you want and Github will take care of the rest.
 
-#### Configure your Jekyll site
+#### 3. Configure your Jekyll site
   
+The `_config.yml` file contains a lot of settings that can be configured to your liking. Here are a few of the most important ones:
 
+  * `title`: The title of your site that shows up in the tab of your browser.
+  * `name`: The text that appears at the top of your site.
+  * `theme`: This is the theme that you selected earlier.
 
-Now, whenever you want to update your resume, you can simply update the `index.md` file and commit your changes.
+Jekyll has a lot of other settings that you can configure as well. The settings that you can configure will depend on the theme you choose, and these settings are usually listed on the Github repository of the theme.
+
+#### 4. Continually update your site
+
+Now that you have set up version control, whenever you want to update your resume you can simply update the `index.md` file and commit your changes.
 
 
 ### More Resources
