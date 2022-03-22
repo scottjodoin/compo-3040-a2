@@ -1,5 +1,7 @@
 # Resume
 
+Make a change!
+
 ## Purpose
 
 This guide will walk you through the steps to upload a resume to your GitHub repository using Markdown, Jekyll theming, and GitHub pages. This guide will also make references to the suggestions as outlined in Etter's book, **Modern Technical Writing**. 
