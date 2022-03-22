@@ -53,21 +53,23 @@ Volunteer location, date range
 Etter recommends that you use a version control system to manage your documents. This is a good way to ensure that your documents are always up-to-date. We recommend using GitHub.
 
 Now that you have your resume in Markdown, you need to upload it to a GitHub repository
-#### 1. Create a GitHub repository for your resume in the following format: `username.github.io`.
+#### a. Create a GitHub repository for your resume in the following format: `username.github.io`.
 
-#### 2. Grab the link to your repository from the GitHub page
+#### b. Grab the link to your repository from the GitHub page
 
-#### 3. Download the repository in VS Code
+#### c. Download the repository in VS Code
 
 Open up a new instance of VS Code and click **Clone a Git Repository**. Copy the link from the GitHub page and paste it into the **Repository URL** field. Click **Clone** and wait for the repository to download. You should see a new folder in your workspace.
 
-#### 4. Add your resume to the directory as `index.md` and commit your changes.
+#### d. Add your resume to the directory as `index.md`
 
-#### 5. Push your changes to your repository
+#### e. Commit your changes.
 
-In VS Code, click the **Git** tab and click **Push**. You should see a message that your changes have been pushed to your repository.
+#### f. Push your changes to your repository
 
-#### 6. Open your GitHub repository in your browser and see that your file has successfully been uploaded
+In VS Code, click the **Git** tab, add a commit message and click **Sync now**. You should see a message that your changes have been pushed to your repository.
+
+#### g. Open your GitHub repository in your browser and see that your file has successfully been uploaded
 
 If you can't see your file, you may need to refresh the page.
 
@@ -77,18 +79,18 @@ While styling with HTML and CSS can be fun, it can also tend to time consuming a
 
 Jekyll is our tool of choice that will convert a Markdown document into a static site. While is possible to run Jekyll on your own machine, we will let GitHub pages take care of this for us.
 
-#### 1. Set up GitHub Pages for your repository
+#### a. Set up GitHub Pages for your repository
 * From your GitHub repository, go to the **Settings** then **Pages** section.
 * Choose the   **Main** or **Master** branch and **Save**.
 * Choose a Jekyll theme that suits your fancy and commit the changes.
 
 When you go back to your repository, you will find a new file called `_config.yml`. This file contains the configuration for your Jekyll site. So far, the file only contains the `theme:` setting.
 
-#### 2. Choose a more specific theme for your resume
+#### b. Choose a more specific theme for your resume
 
 If you want to see more Jekyll themes than the default ones that GitHub provides, you can visit the [Jekyll themes page](https://jekyllrb.com/docs/themes/) to see more. Each theme has a unique name, so when you find one you like, you can replace the `theme:` setting in `_config.yml` with the name of the theme you want and GitHub will take care of the rest.
 
-#### 3. Configure your Jekyll site
+#### c. Configure your Jekyll site
   
 The `_config.yml` file contains a lot of settings that can be configured to your liking. Here are a few of the most important ones:
 
@@ -98,7 +100,7 @@ The `_config.yml` file contains a lot of settings that can be configured to your
 
 Jekyll has a lot of other settings that you can configure as well. The settings that you can configure will depend on the theme you choose, and these settings are usually listed on the GitHub repository of the theme.
 
-#### 4. Continually update your site
+#### d. Update your site continually
 
 Now that you have set up version control, whenever you want to update your resume, you can simply update the `index.md` file and commit your changes.
 
