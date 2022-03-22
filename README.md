@@ -1,12 +1,13 @@
-# Resume
+# README
 
 ## Purpose
 
-This guide will walk you through the steps to upload a resume to your GitHub repository using Markdown, Jekyll theming, and GitHub pages. This guide will also make references to the suggestions as outlined in Etter's book, **Modern Technical Writing**. 
+This README guide will walk you through the steps to upload a resume to your GitHub repository using Markdown, Jekyll theming, and GitHub pages. This guide will also make references to the suggestions as outlined in Etter's book, **Modern Technical Writing**. 
 
 ## Prerequisites
 
-* A resume formatted in Markdown.
+* A resume to be formatted in Markdown.
+* A Markdown editor, such as VS Code
 * A GitHub account and dedicated repository
 
 ## Instructions
@@ -67,7 +68,7 @@ Open up a new instance of VS Code and click **Clone a Git Repository**. Copy the
 
 #### f. Push your changes to your repository
 
-In VS Code, click the **Git** tab, add a commit message and click **Sync now**. You should see a message that your changes have been pushed to your repository.
+In VS Code, click the **Git** tab, add a commit message and click **Sync Changes**. You should see a message that your changes have been pushed to your repository.
 
 #### g. Open your GitHub repository in your browser and see that your file has successfully been uploaded
 
@@ -77,7 +78,7 @@ If you can't see your file, you may need to refresh the page.
 
 While styling with HTML and CSS can be fun, it can also tend to time consuming and detract from the actual work of writing. Etter recommends using a static site generator to create a website that is easy to read and navigate from the beautiful markdown you produced in an earlier step.
 
-Jekyll is our tool of choice that will convert a Markdown document into a static site. While is possible to run Jekyll on your own machine, we will let GitHub pages take care of this for us.
+Jekyll is our tool of choice that will convert a Markdown document into a static site. While it is possible to run Jekyll on your own machine, we will let GitHub pages take care of this for us.
 
 #### a. Set up GitHub Pages for your repository
 * From your GitHub repository, go to the **Settings** then **Pages** section.
@@ -107,7 +108,7 @@ Now that you have set up version control, whenever you want to update your resum
 
 ### Conclusion
 
-Congrats! If you have followed the steps in this guide, you should have an easy-to-update resume that has been uploaded to GitHub, ready to be read by anyone. If you have any questions, feel free to reach out to me through my GitHub profile.
+Congrats! If you have followed the steps in this guide, you should have an easy-to-update resume that has been uploaded to GitHub, ready to be read by anyone. If you have any questions, feel free to reach out to me through my [GitHub profile](github.com/scottjodoin).
 
 ### More Resources
 
@@ -118,14 +119,14 @@ Congrats! If you have followed the steps in this guide, you should have an easy-
 
 ## Authors and Acknowledgements
 
-This resume and README was created by myself, Scott Jodoin in fulfillment of Assignment 2 from COMP 3040. The Jekyll theme [Slate](https://github.com/pages-themes/slate) used by this resume was created by [Ben Balter and the open source community](https://github.com/pages-themes/slate/graphs/contributors). My group members include: Kyle Calinisan, Raven Mico Carencia, Tahmidul Hasnain Zidaan, and Hao Qin. 
+This resume and README was created by Scott Jodoin in fulfilment of Assignment 2 from COMP 3040. The Jekyll theme [Slate](https://github.com/pages-themes/slate) used by this resume was created by [Ben Balter and the open source community](https://github.com/pages-themes/slate/graphs/contributors). My group members include: Kyle Calinisan, Raven Mico Carencia, Tahmidul Hasnain Zidaan, and Hao Qin. 
 
 
 ## FAQ
 
 ### Why is Markdown better than a word processor?
 
-Markdown is simple and clean text content language designed for the web; it is all that it needs to be and nothing more. Did I mention that it is free? Markdown's bare-bones syntax makes it easy for writers to write, collaborate, and use version control. In contrast, word processors filled with print-formatting tools distract from the hard work of writing and restrict authors to use proprietary software, file formats, and collaboration tools. 
+Markdown is a simple and clean text content language designed for the web; it is all that it needs to be and nothing more. Did I mention that it is free? Markdown's bare-bones syntax makes it easy for writers to write, collaborate, and use version control. In contrast, word processors filled with print-formatting tools distract from the hard work of writing and restrict authors to use proprietary software, file formats, and collaboration tools. 
 
 ### Why is my resume not showing up?
   
