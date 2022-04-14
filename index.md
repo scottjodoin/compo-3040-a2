@@ -1,8 +1,6 @@
 ---
-title: "My Resume"
+title: "Scott Jodoin"
 ---
-
-# Scott Jodoin
 
 ## Software Developer
 
@@ -27,11 +25,10 @@ title: "My Resume"
 ### ENTERPRISE ARCHITECT INTERN (REMOTE)
 WAWANESA MUTUAL INSURANCE JAN 2022 - APR 2022
 
-* Maintained and contributed to an application portfolio management repository containing hundreds of applications.
-* Researched, assessed impact, and provided recomendations on the use of new and existing technology at Wawanesa based on Lean princinples.
-* Actively communicated with dozens of solution architects within the organization to consolidate architecture and business knowledge.
+* Maintained and contributed to an application portfolio management repository containing over 400 applications.
+* Researched, assessed impact, and provided recommendations on the use of new and existing technology.
+* Communicated with dozens of solution architects within the organization to update our Current State Entperprise Architecture Document.
 * Used advanced features of SharePoint, Confluence, Office 365, Visio, and LeanIX for collaborative and automated knowledge management and reporting.
-* Learned about various architecture frameworks such as TOGAF, ITIL, and Lean.
 
 ### JUNIOR DEVELOPER (REMOTE)  
 INTERNATIONAL INSTITUTE FOR SUSTAINABLE DEVELOPMENT Aug 2020 - May 2021
@@ -42,7 +39,7 @@ INTERNATIONAL INSTITUTE FOR SUSTAINABLE DEVELOPMENT Aug 2020 - May 2021
 *   Modularized a payment approval system managing $50k+ / mo to improve project manager workflow and to reduce errors.
 *   Developed an analytics system that reports feature usage bade on department.
 
-### IT / Cryptocurrency Development  
+### IT / CRYPTOCURRENCY DEVELOPMENT
 PENN-CO CONSTRUCTION CANADA Jan 2021- May 2021
 
 *   Built and configured 10 mining rigs running Linux with a total of 50 graphics cards
@@ -67,7 +64,10 @@ DEPT OF EDUCATION, UNIVERSITY OF MANITOBA Jun 2016 - Aug 2019 (Summers)
 *   Specified data collection procedures for researchers to simplify automation.
 *   Reduced recurring manual workload from 60+ hours of work to 8 hours.
 
-## EDUCATION
+## EDUCATION AND CERTIFICATIONS
+
+### AWS CLOUD PRACTITIONER CERTIFIED
+2022
 
 ### UNIVERSITY OF MANITOBA  
 B. SC. COMPUTER SCIENCE - MAJOR PROGRAM - CS GPA 4.17 2020 - 2024
